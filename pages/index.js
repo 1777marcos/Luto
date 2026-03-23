@@ -1,22 +1,7 @@
-function Main() {
-    return (
-        <div>
-            <h1>CorporaLuto</h1>
-        </div>
-    );
-}
-function Min() {
-    let idade = 25;
-    return <p>Idade: {idade}</p>;
+function Home () {
+    <div>
+        <h1>Home10</h1>
+    </div>
 }
 
-function Home() {
-    return(
-        <div>
-            <Main/>
-            <Min/>
-        </div>
-    );
-}
-
-export default Home;
+export default Home
